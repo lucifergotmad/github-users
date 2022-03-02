@@ -2,6 +2,31 @@
     <string name="app_name">GithubUsers</string>
     <string name="user_name">Username</string>
     <string name="full_name">Fullname</string>
+    <string-array name="status">
+        <item>Busy</item>
+        <item>Out of Nowhere</item>
+        <item>On Vacation</item>
+        <item>Focus</item>
+        <item>You can't change people</item>
+        <item>Busy</item>
+        <item>Available</item>
+        <item>Open for Business Inquiry</item>
+        <item>The more you quite, the more you are able to hear</item>
+        <item>Baba Yaga</item>
+    </string-array>
+    <string-array name="telephone_number">
+        <item>+1–202–555–0138</item>
+        <item>+1–202–555–0157</item>
+        <item>+1–202–555–0172</item>
+        <item>+1–202–555–0163</item>
+        <item>+1–202–555–0157</item>
+        <item>+1–202–555–0107</item>
+        <item>+1–202–555–0157</item>
+        <item>+1–202–555–0172</item>
+        <item>+1–202–555–0163</item>
+        <item>+1–202–555–0157</item>
+        <item>+1–202–555–0107</item>
+    </string-array>
     <string-array name="username">
         <item>JakeWharton</item>
         <item>amitshekhariitbhu</item>
@@ -14,7 +39,7 @@
         <item>hendisantika</item>
         <item>sidiqpermana</item>
     </string-array>
-    <string-array name="name">
+    <string-array name="full_name">
         <item>Jake Wharton</item>
         <item>Amit Shekhar</item>
         <item>Romain Guy</item>
