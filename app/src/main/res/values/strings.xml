@@ -1,31 +1,53 @@
 <resources>
-    <string name="app_name">GithubUsers</string>
-    <string name="user_name">Username</string>
-    <string name="full_name">Fullname</string>
+    <string name="app_name">GithubUser</string>
+    <string name="tv_username">\@%1$s</string>
+    <string name="tv_name">Name</string>
+    <string name="iv_avatar">Avatar</string>
+    <string name="tv_status">Status</string>
+    <string name="tv_company">Company</string>
+    <string name="tv_location">Location</string>
+    <string name="tv_followers">%1$s Followers</string>
+    <string name="tv_following">%1$s Following</string>
+    <string name="tv_telephone_number">Telephone Number</string>
+    <string name="tv_website">Website</string>
+    <string name="btn_call">Make a Call</string>
+    <string name="tv_repositories">There are %1$s Repositories</string>
+    <string name="iv_repository_description">Repositories Icon</string>
     <string-array name="status">
         <item>Busy</item>
         <item>Out of Nowhere</item>
-        <item>On Vacation</item>
-        <item>Focus</item>
-        <item>You can't change people</item>
-        <item>Busy</item>
+        <item>DC Fanboy</item>
+        <item>Gamer Boy</item>
         <item>Available</item>
-        <item>Open for Business Inquiry</item>
-        <item>The more you quite, the more you are able to hear</item>
-        <item>Baba Yaga</item>
+        <item>Busy</item>
+        <item>Alien Invasion</item>
+        <item>Anime, Manga and Joy</item>
+        <item>Available</item>
+        <item>Busy</item>
     </string-array>
-    <string-array name="telephone_number">
-        <item>+1–202–555–0138</item>
-        <item>+1–202–555–0157</item>
-        <item>+1–202–555–0172</item>
-        <item>+1–202–555–0163</item>
-        <item>+1–202–555–0157</item>
-        <item>+1–202–555–0107</item>
-        <item>+1–202–555–0157</item>
-        <item>+1–202–555–0172</item>
-        <item>+1–202–555–0163</item>
-        <item>+1–202–555–0157</item>
-        <item>+1–202–555–0107</item>
+    <string-array name="phone_number">
+        <item>089235428302</item>
+        <item>089238428302</item>
+        <item>089231428302</item>
+        <item>089224428302</item>
+        <item>089214428302</item>
+        <item>089234458302</item>
+        <item>089237428302</item>
+        <item>089234428392</item>
+        <item>089234428372</item>
+        <item>089234428602</item>
+    </string-array>
+    <string-array name="website">
+        <item>www.duosweb.com</item>
+        <item>www.medium.com</item>
+        <item>www.dicoding.com</item>
+        <item>www.sekolahkoding.com</item>
+        <item>www.amateur.dev</item>
+        <item>www.kelasterbuka.com</item>
+        <item>www.niagahoster.com</item>
+        <item>www.hostinger.co.id</item>
+        <item>www.kampusmerdeka.com</item>
+        <item>www.jquery.com</item>
     </string-array>
     <string-array name="username">
         <item>JakeWharton</item>
@@ -39,7 +61,7 @@
         <item>hendisantika</item>
         <item>sidiqpermana</item>
     </string-array>
-    <string-array name="full_name">
+    <string-array name="name">
         <item>Jake Wharton</item>
         <item>Amit Shekhar</item>
         <item>Romain Guy</item>
